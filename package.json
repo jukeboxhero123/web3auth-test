@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@web3auth/modal": "^10.8.3",
+    "@web3auth/modal": "^10.10.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
   },

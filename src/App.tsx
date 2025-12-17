@@ -14,7 +14,10 @@ function App() {
   return (
     <>
       {isConnected ? (
-        <button onClick={() => disconnect()}>Disconnect</button>
+        <div>
+          <p>Connected</p>
+          <button onClick={() => disconnect()}>Disconnect</button>
+        </div>
       ) : (
         <button onClick={loginWithGoogle}>Login with Google</button>
       )}
