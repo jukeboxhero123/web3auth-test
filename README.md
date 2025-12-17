@@ -4,7 +4,6 @@
 3. Create a `.env` file in the root directory, and specify your web3auth clientID via `VITE_WEB3AUTH_CLIENT_ID`
 
 ## Start the app
-1. Create a `.env` file in the root directory, and specify your web3auth clientID via `VITE_WEB3AUTH_CLIENT_ID`
 2. Run `npm dev` 
 
 ## Repo The Crash
